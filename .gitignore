@@ -30,5 +30,8 @@ ENV/
 *.swp
 *.swo
 
+# Keys
+keys/
+
 # OS specific files
 .DS_Store
